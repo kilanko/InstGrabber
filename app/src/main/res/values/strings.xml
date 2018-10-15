@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">InstGrabber</string>
+    <string name="placeholder">Click here to open Instagram</string>
+    <string name="menu_save">Downloads</string>
+    <string name="menu_rate">Rate App</string>
+
+    <string name="save_label">Downloading...</string>
+    <string name="save_title_holder">♫ Jamie Sharp - original  sound - thejamiesharp</string>
+    <string name="btn_play">View Download</string>
+    <string name="fini">Download Complete</string>
+    <string name="empty">No Downloads</string>
+
+    <string name="fb_ads">743506575996128_743507405996045</string>
+
+    <string name="headings">Instagram video Downloader is on</string>
+    <string name="sub_headings">Copy instagram link to download</string>
+
+
+    <string name="guide_a">STEP 1</string>
+    <string name="guide_b">STEP 2</string>
+    <string name="guide_c">STEP 3</string>
+    <string name="guide_d">STEP 4</string>
+
+    <string name="guide_name_a">Tap to open Instagram</string>
+    <string name="guide_name_b">Tap on more option icon over Instagram post</string>
+    <string name="guide_name_c">Tap on \'Copy Share Url\' option</string>
+    <string name="guide_name_d">Yay! the video or photo will start downloading</string>
+    <string name="btn_open">Open Instagram</string>
+
+
+</resources>
